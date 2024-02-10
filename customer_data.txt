@@ -1,0 +1,132 @@
+Customer Name: vital
+Customer ID/Phone: 122
+
+Product 1: BEANS
+MRP: 200.0
+MP: 130.0
+Quantity: 3.0
+Price: 390.0
+
+Total Bill: 390.0
+Total Discount: 210.0
+Total Products: 1
+
+
+---------------------------------------------
+Customer Name: vital
+Customer ID/Phone: 155
+
+Product 1: RICE
+MRP: 50.0
+MP: 45.0
+Quantity: 6.0
+Price: 270.0
+
+Product 2: MILK
+MRP: 50.0
+MP: 45.0
+Quantity: 2.0
+Price: 90.0
+
+Total Bill: 360.0
+Total Discount: 40.0
+Total Products: 2
+
+
+---------------------------------------------
+Customer Name: krish
+Customer ID/Phone: 165
+
+Product 1: RICE
+MRP: 250.0Rs
+MP: 230.0Rs
+Quantity: 120.0
+Price: 27600.0Rs
+
+Total Bill: 27600.0Rs
+Total Discount: 2400.0Rs
+Total Products: 1
+
+
+---------------------------------------------
+Customer Name: vital
+Customer ID/Phone: 123
+
+Product 1: RICE
+MRP: 250.0Rs
+MP: 230.0Rs
+Quantity: 10.0
+Price: 2300.0Rs
+
+Product 2: MILK
+MRP: 30.0Rs
+MP: 25.0Rs
+Quantity: 12.0
+Price: 300.0Rs
+
+Product 3: BREAD
+MRP: 50.0Rs
+MP: 45.0Rs
+Quantity: 3.0
+Price: 135.0Rs
+
+Product 4: GROUND NUT
+MRP: 100.0Rs
+MP: 93.0Rs
+Quantity: 5.0
+Price: 465.0Rs
+
+Product 5: GHEE
+MRP: 120.0Rs
+MP: 110.0Rs
+Quantity: 3.0
+Price: 330.0Rs
+
+Total Bill: 3530.0Rs
+Total Discount: 340.0Rs
+Total Products: 5
+
+
+---------------------------------------------
+Customer Name: hemanth
+Customer ID/Phone: 1990
+
+Product 1: RICE
+MRP: 50.0Rs
+MP: 48.0Rs
+Quantity: 3.0
+Price: 144.0Rs
+
+Product 2: MILK
+MRP: 60.0Rs
+MP: 55.0Rs
+Quantity: 2.0
+Price: 110.0Rs
+
+Product 3: SUGAR
+MRP: 30.0Rs
+MP: 28.0Rs
+Quantity: 1.0
+Price: 28.0Rs
+
+Product 4: BREAD
+MRP: 60.0Rs
+MP: 55.0Rs
+Quantity: 2.0
+Price: 110.0Rs
+
+Product 5: JAM
+MRP: 40.0Rs
+MP: 35.0Rs
+Quantity: 1.0
+Price: 35.0Rs
+
+Product 6: OIL
+MRP: 120.0Rs
+MP: 110.0Rs
+Quantity: 5.0
+Price: 550.0Rs
+
+Total Bill: 977.0Rs
+Total Discount: 83.0Rs
+Total Products: 6
